@@ -2,7 +2,7 @@ import time
 from pytube import YouTube
 
 # URL of the YouTube playlist
-playlist_url = "https://www.youtube.com/watch?v=JX0agKW4noM&ab_channel=TheTechBlackBoard"
+playlist_url = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 # Split the playlist URL to extract the video ID
 video_id = playlist_url.split('v=')[1].split('&')[0]
